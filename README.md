@@ -26,4 +26,4 @@ When you debug it, it will run smoothly.
 ```
 
 
-![Zyrotify.](https://i.hizliresim.com/SqJAeC.png)
+![Zyrotify.](https://cdn.discordapp.com/attachments/984345593960878090/1120707630730588160/Adsz.png)
