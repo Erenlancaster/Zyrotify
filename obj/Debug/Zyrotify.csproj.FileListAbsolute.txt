@@ -1,0 +1,9 @@
+C:\Users\ereng\Desktop\crack\Zyrotify\god checker - Copy\god checker\bin\Debug\Zyrotify.exe.config
+C:\Users\ereng\Desktop\crack\Zyrotify\god checker - Copy\god checker\bin\Debug\Zyrotify.exe
+C:\Users\ereng\Desktop\crack\Zyrotify\god checker - Copy\god checker\bin\Debug\Zyrotify.pdb
+C:\Users\ereng\Desktop\crack\Zyrotify\god checker - Copy\god checker\bin\Debug\Leaf.xNet.dll
+C:\Users\ereng\Desktop\crack\Zyrotify\god checker - Copy\god checker\bin\Debug\Leaf.xNet.xml
+C:\Users\ereng\Desktop\crack\Zyrotify\god checker - Copy\god checker\obj\Debug\Zyrotify.csproj.CoreCompileInputs.cache
+C:\Users\ereng\Desktop\crack\Zyrotify\god checker - Copy\god checker\obj\Debug\Zyrotify.csproj.CopyComplete
+C:\Users\ereng\Desktop\crack\Zyrotify\god checker - Copy\god checker\obj\Debug\Zyrotify.exe
+C:\Users\ereng\Desktop\crack\Zyrotify\god checker - Copy\god checker\obj\Debug\Zyrotify.pdb
