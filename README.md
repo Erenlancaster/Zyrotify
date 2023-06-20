@@ -1,3 +1,5 @@
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
+[![license](https://img.shields.io/badge/License-GNU-blue.svg)](https://www.gnu.org/licenses/gpl-3.0.fr.html)
 # Zyrotify
 Zyrotify, multi spotify program checker,creator,follower etc.
 
@@ -13,8 +15,6 @@ Zyrotify, multi spotify program checker,creator,follower etc.
 I did this program about 3 years ago, 80% of the program is working
 
 ## **🛠️ Requirements / Launch**
-
-- [Python 3](https://www.python.org/downloads/)
 
 ```
 git clone https://github.com/erenlancaster/zyrotify.git
