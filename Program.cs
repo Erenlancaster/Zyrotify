@@ -40,7 +40,7 @@ namespace god_checker
             }
 
             //This connects your file to the Auth.GG API, and sends back your application settings and such
-            OnProgramStart.Initialize("komut34", "982412", "9yVHUtlbbylIWsUoc8bpwyA9QzsgO24AVA3", "1");
+            OnProgramStart.Initialize("a", "a", "a", "1");
             if (ApplicationSettings.Freemode)
             {
                 //Usually when your application doesn't need a login and has freemode enabled you put the code here you want to do
