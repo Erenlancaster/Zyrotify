@@ -2,6 +2,9 @@
 ![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 [![license](https://img.shields.io/badge/License-GNU-blue.svg)](https://www.gnu.org/licenses/gpl-3.0.fr.html)
+
+If you come from c.to, as a respect for the effort give me rep nick: trankolancaster
+
 # Zyrotify
 Zyrotify, multi spotify program checker,creator,follower etc.
 
